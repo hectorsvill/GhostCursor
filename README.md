@@ -8,8 +8,6 @@
 
 GhostCursor is a lightweight command-line utility written in Swift that periodically moves the mouse cursor by small, random amounts. It runs natively on macOS without any third-party dependencies, leveraging Apple's CoreGraphics framework to simulate natural-looking mouse activity.
 
-The script prevents your computer from going idle and keeps communication tools like Microsoft Teams, Slack, and Zoom from switching your status to "Away" or "Inactive."
-
 ---
 
 ## Setup Instructions
